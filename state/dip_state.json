@@ -1,6 +1,6 @@
 {
-  "last_alert_level": 0,
-  "last_price": null,
-  "last_drawdown_percent": null,
-  "last_updated_at": null
+  "last_alert_level": 20,
+  "last_price": "60.39",
+  "last_drawdown_percent": "-25.76",
+  "last_updated_at": "2026-07-08T01:52:41.177310+09:00"
 }
