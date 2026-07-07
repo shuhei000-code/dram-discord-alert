@@ -3,9 +3,9 @@ name: DRAM Discord Notifier
 "on":
   schedule:
     # 22:40 JST = 13:40 UTC
-    - cron: "40 13 * * * *"
+    - cron: "40 13 * * *"
     # Extra checks every 30 minutes. These notify only when a new dip level is reached.
-    - cron: "*/30 * * * *"
+    - cron: "*/30 * * *"
   workflow_dispatch:
 
 permissions:
